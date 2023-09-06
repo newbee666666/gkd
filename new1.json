@@ -1,8 +1,8 @@
 {
-  "id": 0,
-  "name": "默认订阅",
+  "id": 1,
+  "name": "测试订阅",
   "version": 71,
-  "author": "lisonge",
+  "author": "牛逼哥",
   "supportUri": "https://github.com/gkd-kit/subscription",
   "apps": [
     {
